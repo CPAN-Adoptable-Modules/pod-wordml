@@ -37,3 +37,6 @@ nytprof.out
 pm_to_blib
 test-corpus/*.debug
 *.icould
+MANIFEST*[123456789]
+Changes*[123456789]
+
