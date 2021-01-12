@@ -64,3 +64,6 @@
 \.lwpcookies
 Pod-.*
 .debug$
+\bMANIFEST\s\d
+\bChanges\s\d
+
