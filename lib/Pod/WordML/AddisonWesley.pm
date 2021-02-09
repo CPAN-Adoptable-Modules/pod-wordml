@@ -5,10 +5,7 @@ use base 'Pod::WordML';
 use warnings;
 no warnings;
 
-use subs qw();
-use vars qw($VERSION);
-
-$VERSION = '0.164';
+our $VERSION = '0.165';
 
 =encoding utf8
 
@@ -2626,6 +2623,10 @@ sub italic_char_style      { 'E2' }
 L<Pod::PseudoPod>, L<Pod::Simple>
 
 =head1 SOURCE AVAILABILITY
+
+This is an abandoned module. You can adopt it if you like:
+
+	https://pause.perl.org/pause/authenquery?ACTION=pause_04about#takeover
 
 This source is in Github:
 
